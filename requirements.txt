@@ -1,0 +1,4 @@
+PyYAML>=6.0
+# netmiko is only required for talking to REAL devices; simulation mode runs
+# without it. Uncomment to enable live SSH automation.
+# netmiko>=4.3.0
